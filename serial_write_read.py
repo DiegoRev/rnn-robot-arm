@@ -61,9 +61,9 @@ if __name__ == '__main__':
         try:
             y=[]
             print("Ingrese su posicion")
-            a=int(input("X ="))
-            b=int(input("Y ="))
-            c=int(input("Z ="))
+            a=int(input("X = "))
+            b=int(input("Y = "))
+            c=int(input("Z = "))
             y.append(a)
             y.append(b)
             y.append(c)
